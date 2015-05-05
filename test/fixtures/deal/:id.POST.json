@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "templateAlias": ["class", "action"],
+    "partial": true,
+    "body": {
+        "hello": "world",
+        "id": "1234"
+    }
+}
